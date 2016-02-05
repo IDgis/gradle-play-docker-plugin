@@ -1,4 +1,4 @@
-package nl.idgis.gradle.docker
+package nl.idgis.gradle.play
 
 import org.gradle.api.Plugin
 import org.gradle.api.Project
